@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice2</string>
+    <string name="changed_fragment_label">Changed FragmentMain</string>
+    <string name="changed_main_label">Changed main label</string>
+    <string name="third_screen_label">Third Screen</string>
+    <string name="fragmentmain">FragmentMain</string>
+</resources>
